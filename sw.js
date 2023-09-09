@@ -14,9 +14,7 @@ let cachedItems = [
  "/reg.js",
  "/sw.js",
  "/app.webmanifest",
- "/node_modules/react-dom/umd/react-dom.development.js",
- "/node_modules/react/umd/react.development.js",
- "/node_modules/@babel/standalone/babel.min.js",
+ "/static/js/main.8240bb97.js
  "/css/styles-desktop.css",
  "/css/styles-mobile.css"
 
